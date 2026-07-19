@@ -34,6 +34,7 @@
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/suzanne-jolly/cpp/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/suzanne-jolly/cpp/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1208-get-equal-substrings-within-budget](https://github.com/suzanne-jolly/cpp/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,11 +73,13 @@
 | [0392-is-subsequence](https://github.com/suzanne-jolly/cpp/tree/main/0392-is-subsequence/) | Easy |
 | [0767-reorganize-string](https://github.com/suzanne-jolly/cpp/tree/main/0767-reorganize-string/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/suzanne-jolly/cpp/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1208-get-equal-substrings-within-budget](https://github.com/suzanne-jolly/cpp/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/suzanne-jolly/cpp/tree/main/2047-number-of-valid-words-in-a-sentence/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/suzanne-jolly/cpp/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [1208-get-equal-substrings-within-budget](https://github.com/suzanne-jolly/cpp/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +104,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suzanne-jolly/cpp/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1208-get-equal-substrings-within-budget](https://github.com/suzanne-jolly/cpp/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -17,6 +17,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suzanne-jolly/cpp/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/suzanne-jolly/cpp/tree/main/0027-remove-element/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/suzanne-jolly/cpp/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0392-is-subsequence](https://github.com/suzanne-jolly/cpp/tree/main/0392-is-subsequence/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +31,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0152-maximum-product-subarray](https://github.com/suzanne-jolly/cpp/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0392-is-subsequence](https://github.com/suzanne-jolly/cpp/tree/main/0392-is-subsequence/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/suzanne-jolly/cpp/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/suzanne-jolly/cpp/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Greedy
@@ -47,5 +49,6 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0392-is-subsequence](https://github.com/suzanne-jolly/cpp/tree/main/0392-is-subsequence/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/suzanne-jolly/cpp/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->

@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suzanne-jolly/cpp/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/suzanne-jolly/cpp/tree/main/0027-remove-element/) | Easy |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/suzanne-jolly/cpp/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/suzanne-jolly/cpp/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/suzanne-jolly/cpp/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/suzanne-jolly/cpp/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -51,4 +52,8 @@
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/suzanne-jolly/cpp/tree/main/0392-is-subsequence/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/suzanne-jolly/cpp/tree/main/1143-longest-common-subsequence/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/suzanne-jolly/cpp/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 <!---LeetCode Topics End-->

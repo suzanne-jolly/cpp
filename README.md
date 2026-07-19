@@ -59,6 +59,7 @@
 | [0392-is-subsequence](https://github.com/suzanne-jolly/cpp/tree/main/0392-is-subsequence/) | Easy |
 | [0767-reorganize-string](https://github.com/suzanne-jolly/cpp/tree/main/0767-reorganize-string/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/suzanne-jolly/cpp/tree/main/1143-longest-common-subsequence/) | Medium |
+| [2047-number-of-valid-words-in-a-sentence](https://github.com/suzanne-jolly/cpp/tree/main/2047-number-of-valid-words-in-a-sentence/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -31,6 +31,7 @@
 | ------- | ------- |
 | [0152-maximum-product-subarray](https://github.com/suzanne-jolly/cpp/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/suzanne-jolly/cpp/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/suzanne-jolly/cpp/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,4 +44,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/suzanne-jolly/cpp/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/suzanne-jolly/cpp/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->

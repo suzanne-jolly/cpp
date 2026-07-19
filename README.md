@@ -40,20 +40,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/suzanne-jolly/cpp/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0767-reorganize-string](https://github.com/suzanne-jolly/cpp/tree/main/0767-reorganize-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/suzanne-jolly/cpp/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0767-reorganize-string](https://github.com/suzanne-jolly/cpp/tree/main/0767-reorganize-string/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suzanne-jolly/cpp/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/suzanne-jolly/cpp/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0767-reorganize-string](https://github.com/suzanne-jolly/cpp/tree/main/0767-reorganize-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suzanne-jolly/cpp/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0392-is-subsequence](https://github.com/suzanne-jolly/cpp/tree/main/0392-is-subsequence/) | Easy |
+| [0767-reorganize-string](https://github.com/suzanne-jolly/cpp/tree/main/0767-reorganize-string/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/suzanne-jolly/cpp/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -82,4 +86,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suzanne-jolly/cpp/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0767-reorganize-string](https://github.com/suzanne-jolly/cpp/tree/main/0767-reorganize-string/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0767-reorganize-string](https://github.com/suzanne-jolly/cpp/tree/main/0767-reorganize-string/) | Medium |
 <!---LeetCode Topics End-->

@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suzanne-jolly/cpp/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/suzanne-jolly/cpp/tree/main/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/suzanne-jolly/cpp/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0045-jump-game-ii](https://github.com/suzanne-jolly/cpp/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/suzanne-jolly/cpp/tree/main/0055-jump-game/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/suzanne-jolly/cpp/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/suzanne-jolly/cpp/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -40,6 +41,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/suzanne-jolly/cpp/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/suzanne-jolly/cpp/tree/main/0055-jump-game/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/suzanne-jolly/cpp/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/suzanne-jolly/cpp/tree/main/0198-house-robber/) | Medium |
@@ -52,6 +54,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/suzanne-jolly/cpp/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/suzanne-jolly/cpp/tree/main/0055-jump-game/) | Medium |
 | [0179-largest-number](https://github.com/suzanne-jolly/cpp/tree/main/0179-largest-number/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/suzanne-jolly/cpp/tree/main/0435-non-overlapping-intervals/) | Medium |

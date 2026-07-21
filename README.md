@@ -45,12 +45,14 @@
 | [0416-partition-equal-subset-sum](https://github.com/suzanne-jolly/cpp/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/suzanne-jolly/cpp/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/suzanne-jolly/cpp/tree/main/0494-target-sum/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/suzanne-jolly/cpp/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/suzanne-jolly/cpp/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0179-largest-number](https://github.com/suzanne-jolly/cpp/tree/main/0179-largest-number/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/suzanne-jolly/cpp/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/suzanne-jolly/cpp/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0767-reorganize-string](https://github.com/suzanne-jolly/cpp/tree/main/0767-reorganize-string/) | Medium |
 | [0860-lemonade-change](https://github.com/suzanne-jolly/cpp/tree/main/0860-lemonade-change/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/suzanne-jolly/cpp/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -73,6 +75,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/suzanne-jolly/cpp/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0179-largest-number](https://github.com/suzanne-jolly/cpp/tree/main/0179-largest-number/) | Medium |
 | [0392-is-subsequence](https://github.com/suzanne-jolly/cpp/tree/main/0392-is-subsequence/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/suzanne-jolly/cpp/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0767-reorganize-string](https://github.com/suzanne-jolly/cpp/tree/main/0767-reorganize-string/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/suzanne-jolly/cpp/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/suzanne-jolly/cpp/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
@@ -120,4 +123,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0494-target-sum](https://github.com/suzanne-jolly/cpp/tree/main/0494-target-sum/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/suzanne-jolly/cpp/tree/main/0678-valid-parenthesis-string/) | Medium |
 <!---LeetCode Topics End-->

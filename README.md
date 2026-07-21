@@ -16,6 +16,7 @@
 | [0435-non-overlapping-intervals](https://github.com/suzanne-jolly/cpp/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/suzanne-jolly/cpp/tree/main/0494-target-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/suzanne-jolly/cpp/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0860-lemonade-change](https://github.com/suzanne-jolly/cpp/tree/main/0860-lemonade-change/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/suzanne-jolly/cpp/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/suzanne-jolly/cpp/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 ## Two Pointers
@@ -51,6 +52,7 @@
 | [0179-largest-number](https://github.com/suzanne-jolly/cpp/tree/main/0179-largest-number/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/suzanne-jolly/cpp/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0767-reorganize-string](https://github.com/suzanne-jolly/cpp/tree/main/0767-reorganize-string/) | Medium |
+| [0860-lemonade-change](https://github.com/suzanne-jolly/cpp/tree/main/0860-lemonade-change/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/suzanne-jolly/cpp/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |

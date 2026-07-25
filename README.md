@@ -28,6 +28,7 @@
 | [0027-remove-element](https://github.com/suzanne-jolly/cpp/tree/main/0027-remove-element/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/suzanne-jolly/cpp/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0392-is-subsequence](https://github.com/suzanne-jolly/cpp/tree/main/0392-is-subsequence/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/suzanne-jolly/cpp/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +60,7 @@
 | [0179-largest-number](https://github.com/suzanne-jolly/cpp/tree/main/0179-largest-number/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/suzanne-jolly/cpp/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/suzanne-jolly/cpp/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/suzanne-jolly/cpp/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0767-reorganize-string](https://github.com/suzanne-jolly/cpp/tree/main/0767-reorganize-string/) | Medium |
 | [0860-lemonade-change](https://github.com/suzanne-jolly/cpp/tree/main/0860-lemonade-change/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/suzanne-jolly/cpp/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -82,6 +84,7 @@
 | [0179-largest-number](https://github.com/suzanne-jolly/cpp/tree/main/0179-largest-number/) | Medium |
 | [0392-is-subsequence](https://github.com/suzanne-jolly/cpp/tree/main/0392-is-subsequence/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/suzanne-jolly/cpp/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/suzanne-jolly/cpp/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0767-reorganize-string](https://github.com/suzanne-jolly/cpp/tree/main/0767-reorganize-string/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/suzanne-jolly/cpp/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/suzanne-jolly/cpp/tree/main/1208-get-equal-substrings-within-budget/) | Medium |

@@ -2,8 +2,8 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suzanne-jolly/cpp/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/suzanne-jolly/cpp/tree/main/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/suzanne-jolly/cpp/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -23,26 +23,26 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/suzanne-jolly/cpp/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2614-prime-in-diagonal](https://github.com/suzanne-jolly/cpp/tree/master/2614-prime-in-diagonal) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suzanne-jolly/cpp/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/suzanne-jolly/cpp/tree/main/0027-remove-element/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/suzanne-jolly/cpp/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0392-is-subsequence](https://github.com/suzanne-jolly/cpp/tree/main/0392-is-subsequence/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/suzanne-jolly/cpp/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/suzanne-jolly/cpp/tree/main/0303-range-sum-query-immutable/) | Easy |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/suzanne-jolly/cpp/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/suzanne-jolly/cpp/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/suzanne-jolly/cpp/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0045-jump-game-ii](https://github.com/suzanne-jolly/cpp/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/suzanne-jolly/cpp/tree/main/0055-jump-game/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/suzanne-jolly/cpp/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -54,8 +54,8 @@
 | [0678-valid-parenthesis-string](https://github.com/suzanne-jolly/cpp/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/suzanne-jolly/cpp/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0045-jump-game-ii](https://github.com/suzanne-jolly/cpp/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/suzanne-jolly/cpp/tree/main/0055-jump-game/) | Medium |
 | [0179-largest-number](https://github.com/suzanne-jolly/cpp/tree/main/0179-largest-number/) | Medium |
@@ -66,22 +66,22 @@
 | [0860-lemonade-change](https://github.com/suzanne-jolly/cpp/tree/main/0860-lemonade-change/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/suzanne-jolly/cpp/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0179-largest-number](https://github.com/suzanne-jolly/cpp/tree/main/0179-largest-number/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/suzanne-jolly/cpp/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0767-reorganize-string](https://github.com/suzanne-jolly/cpp/tree/main/0767-reorganize-string/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/suzanne-jolly/cpp/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suzanne-jolly/cpp/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0127-word-ladder](https://github.com/suzanne-jolly/cpp/tree/master/0127-word-ladder) |
 | [0560-subarray-sum-equals-k](https://github.com/suzanne-jolly/cpp/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0767-reorganize-string](https://github.com/suzanne-jolly/cpp/tree/main/0767-reorganize-string/) | Medium |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suzanne-jolly/cpp/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0127-word-ladder](https://github.com/suzanne-jolly/cpp/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/suzanne-jolly/cpp/tree/main/0179-largest-number/) | Medium |
@@ -93,13 +93,13 @@
 | [1208-get-equal-substrings-within-budget](https://github.com/suzanne-jolly/cpp/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/suzanne-jolly/cpp/tree/main/2047-number-of-valid-words-in-a-sentence/) | Easy |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/suzanne-jolly/cpp/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/suzanne-jolly/cpp/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0197-rising-temperature](https://github.com/suzanne-jolly/cpp/tree/main/0197-rising-temperature/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/suzanne-jolly/cpp/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/suzanne-jolly/cpp/tree/main/0577-employee-bonus/) | Easy |
@@ -115,42 +115,42 @@
 | [1683-invalid-tweets](https://github.com/suzanne-jolly/cpp/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/suzanne-jolly/cpp/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0127-word-ladder](https://github.com/suzanne-jolly/cpp/tree/master/0127-word-ladder) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/suzanne-jolly/cpp/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/suzanne-jolly/cpp/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/suzanne-jolly/cpp/tree/master/2614-prime-in-diagonal) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suzanne-jolly/cpp/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/suzanne-jolly/cpp/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0767-reorganize-string](https://github.com/suzanne-jolly/cpp/tree/main/0767-reorganize-string/) | Medium |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0767-reorganize-string](https://github.com/suzanne-jolly/cpp/tree/main/0767-reorganize-string/) | Medium |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0494-target-sum](https://github.com/suzanne-jolly/cpp/tree/main/0494-target-sum/) | Medium |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/suzanne-jolly/cpp/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2614-prime-in-diagonal](https://github.com/suzanne-jolly/cpp/tree/master/2614-prime-in-diagonal) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2614-prime-in-diagonal](https://github.com/suzanne-jolly/cpp/tree/master/2614-prime-in-diagonal) |
 <!---LeetCode Topics End-->

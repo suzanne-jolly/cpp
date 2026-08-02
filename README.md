@@ -121,6 +121,7 @@
 | ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/suzanne-jolly/cpp/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/suzanne-jolly/cpp/tree/master/0127-word-ladder) |
+| [0785-is-graph-bipartite](https://github.com/suzanne-jolly/cpp/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/suzanne-jolly/cpp/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -157,4 +158,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2614-prime-in-diagonal](https://github.com/suzanne-jolly/cpp/tree/master/2614-prime-in-diagonal) |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/suzanne-jolly/cpp/tree/main/0785-is-graph-bipartite/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/suzanne-jolly/cpp/tree/main/0785-is-graph-bipartite/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/suzanne-jolly/cpp/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->

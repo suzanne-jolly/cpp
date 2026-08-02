@@ -76,6 +76,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suzanne-jolly/cpp/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0126-word-ladder-ii](https://github.com/suzanne-jolly/cpp/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/suzanne-jolly/cpp/tree/master/0127-word-ladder) |
 | [0560-subarray-sum-equals-k](https://github.com/suzanne-jolly/cpp/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0767-reorganize-string](https://github.com/suzanne-jolly/cpp/tree/main/0767-reorganize-string/) | Medium |
@@ -83,6 +84,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suzanne-jolly/cpp/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0126-word-ladder-ii](https://github.com/suzanne-jolly/cpp/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/suzanne-jolly/cpp/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/suzanne-jolly/cpp/tree/main/0179-largest-number/) | Medium |
 | [0392-is-subsequence](https://github.com/suzanne-jolly/cpp/tree/main/0392-is-subsequence/) | Easy |
@@ -117,6 +119,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0126-word-ladder-ii](https://github.com/suzanne-jolly/cpp/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/suzanne-jolly/cpp/tree/master/0127-word-ladder) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/suzanne-jolly/cpp/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Matrix
@@ -140,6 +143,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0126-word-ladder-ii](https://github.com/suzanne-jolly/cpp/tree/main/0126-word-ladder-ii/) | Hard |
 | [0494-target-sum](https://github.com/suzanne-jolly/cpp/tree/main/0494-target-sum/) | Medium |
 ## Stack
 | Problem Name | Difficulty |

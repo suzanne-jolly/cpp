@@ -124,6 +124,7 @@
 | [0207-course-schedule](https://github.com/suzanne-jolly/cpp/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/suzanne-jolly/cpp/tree/main/0210-course-schedule-ii/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/suzanne-jolly/cpp/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/suzanne-jolly/cpp/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/suzanne-jolly/cpp/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -166,6 +167,7 @@
 | [0207-course-schedule](https://github.com/suzanne-jolly/cpp/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/suzanne-jolly/cpp/tree/main/0210-course-schedule-ii/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/suzanne-jolly/cpp/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/suzanne-jolly/cpp/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,9 +178,19 @@
 | [0207-course-schedule](https://github.com/suzanne-jolly/cpp/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/suzanne-jolly/cpp/tree/main/0210-course-schedule-ii/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/suzanne-jolly/cpp/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/suzanne-jolly/cpp/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/suzanne-jolly/cpp/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/suzanne-jolly/cpp/tree/main/0210-course-schedule-ii/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/suzanne-jolly/cpp/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Kosaraju's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/suzanne-jolly/cpp/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Tarjan's SCC Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/suzanne-jolly/cpp/tree/main/0802-find-eventual-safe-states/) | Medium |
 <!---LeetCode Topics End-->

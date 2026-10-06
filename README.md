@@ -46,6 +46,7 @@
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/suzanne-jolly/cpp/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/suzanne-jolly/cpp/tree/main/0055-jump-game/) | Medium |
+| [0070-climbing-stairs](https://github.com/suzanne-jolly/cpp/tree/main/0070-climbing-stairs/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/suzanne-jolly/cpp/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/suzanne-jolly/cpp/tree/main/0198-house-robber/) | Medium |
 | [0392-is-subsequence](https://github.com/suzanne-jolly/cpp/tree/main/0392-is-subsequence/) | Easy |
@@ -163,6 +164,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/suzanne-jolly/cpp/tree/main/0070-climbing-stairs/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/suzanne-jolly/cpp/tree/master/2614-prime-in-diagonal) |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -205,4 +207,8 @@
 | ------- | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/suzanne-jolly/cpp/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0752-open-the-lock](https://github.com/suzanne-jolly/cpp/tree/main/0752-open-the-lock/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/suzanne-jolly/cpp/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->

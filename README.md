@@ -18,6 +18,7 @@
 | [0435-non-overlapping-intervals](https://github.com/suzanne-jolly/cpp/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/suzanne-jolly/cpp/tree/main/0494-target-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/suzanne-jolly/cpp/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0752-open-the-lock](https://github.com/suzanne-jolly/cpp/tree/main/0752-open-the-lock/) | Medium |
 | [0860-lemonade-change](https://github.com/suzanne-jolly/cpp/tree/main/0860-lemonade-change/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/suzanne-jolly/cpp/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/suzanne-jolly/cpp/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -79,6 +80,7 @@
 | [0126-word-ladder-ii](https://github.com/suzanne-jolly/cpp/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/suzanne-jolly/cpp/tree/master/0127-word-ladder) |
 | [0560-subarray-sum-equals-k](https://github.com/suzanne-jolly/cpp/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0752-open-the-lock](https://github.com/suzanne-jolly/cpp/tree/main/0752-open-the-lock/) | Medium |
 | [0767-reorganize-string](https://github.com/suzanne-jolly/cpp/tree/main/0767-reorganize-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -90,6 +92,7 @@
 | [0392-is-subsequence](https://github.com/suzanne-jolly/cpp/tree/main/0392-is-subsequence/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/suzanne-jolly/cpp/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/suzanne-jolly/cpp/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0752-open-the-lock](https://github.com/suzanne-jolly/cpp/tree/main/0752-open-the-lock/) | Medium |
 | [0767-reorganize-string](https://github.com/suzanne-jolly/cpp/tree/main/0767-reorganize-string/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/suzanne-jolly/cpp/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/suzanne-jolly/cpp/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
@@ -123,6 +126,7 @@
 | [0127-word-ladder](https://github.com/suzanne-jolly/cpp/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/suzanne-jolly/cpp/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/suzanne-jolly/cpp/tree/main/0210-course-schedule-ii/) | Medium |
+| [0752-open-the-lock](https://github.com/suzanne-jolly/cpp/tree/main/0752-open-the-lock/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/suzanne-jolly/cpp/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/suzanne-jolly/cpp/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/suzanne-jolly/cpp/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -193,4 +197,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0802-find-eventual-safe-states](https://github.com/suzanne-jolly/cpp/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0752-open-the-lock](https://github.com/suzanne-jolly/cpp/tree/main/0752-open-the-lock/) | Medium |
 <!---LeetCode Topics End-->

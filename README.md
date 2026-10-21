@@ -95,6 +95,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suzanne-jolly/cpp/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/suzanne-jolly/cpp/tree/main/0020-valid-parentheses/) | Easy |
 | [0126-word-ladder-ii](https://github.com/suzanne-jolly/cpp/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/suzanne-jolly/cpp/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/suzanne-jolly/cpp/tree/main/0179-largest-number/) | Medium |
@@ -168,6 +169,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/suzanne-jolly/cpp/tree/main/0020-valid-parentheses/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/suzanne-jolly/cpp/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -219,4 +221,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/suzanne-jolly/cpp/tree/main/0070-climbing-stairs/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/suzanne-jolly/cpp/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->

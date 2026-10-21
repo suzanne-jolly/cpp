@@ -13,6 +13,7 @@
 | [0152-maximum-product-subarray](https://github.com/suzanne-jolly/cpp/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0179-largest-number](https://github.com/suzanne-jolly/cpp/tree/main/0179-largest-number/) | Medium |
 | [0198-house-robber](https://github.com/suzanne-jolly/cpp/tree/main/0198-house-robber/) | Medium |
+| [0217-contains-duplicate](https://github.com/suzanne-jolly/cpp/tree/main/0217-contains-duplicate/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/suzanne-jolly/cpp/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/suzanne-jolly/cpp/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/suzanne-jolly/cpp/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -71,6 +72,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0179-largest-number](https://github.com/suzanne-jolly/cpp/tree/main/0179-largest-number/) | Medium |
+| [0217-contains-duplicate](https://github.com/suzanne-jolly/cpp/tree/main/0217-contains-duplicate/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/suzanne-jolly/cpp/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0767-reorganize-string](https://github.com/suzanne-jolly/cpp/tree/main/0767-reorganize-string/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/suzanne-jolly/cpp/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -80,6 +82,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/suzanne-jolly/cpp/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0126-word-ladder-ii](https://github.com/suzanne-jolly/cpp/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/suzanne-jolly/cpp/tree/master/0127-word-ladder) |
+| [0217-contains-duplicate](https://github.com/suzanne-jolly/cpp/tree/main/0217-contains-duplicate/) | Easy |
 | [0433-minimum-genetic-mutation](https://github.com/suzanne-jolly/cpp/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/suzanne-jolly/cpp/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0752-open-the-lock](https://github.com/suzanne-jolly/cpp/tree/main/0752-open-the-lock/) | Medium |
